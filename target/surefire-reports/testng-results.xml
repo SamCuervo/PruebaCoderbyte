@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-18T18:56:44 COT" name="Suite" finished-at="2023-04-18T18:57:17 COT" duration-ms="33079">
+    <groups>
+    </groups>
+    <test started-at="2023-04-18T18:56:44 COT" name="Test" finished-at="2023-04-18T18:57:17 COT" duration-ms="33079">
+      <class name="Test.DesloguearseTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:Test.DesloguearseTest@2f7298b]" started-at="2023-04-18T18:56:44 COT" name="beforeClass" finished-at="2023-04-18T18:56:50 COT" duration-ms="5442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="test()[pri:0, instance:Test.DesloguearseTest@2f7298b]" started-at="2023-04-18T18:56:50 COT" name="test" finished-at="2023-04-18T18:57:17 COT" duration-ms="26833" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:Test.DesloguearseTest@2f7298b]" started-at="2023-04-18T18:57:17 COT" name="afterClass" finished-at="2023-04-18T18:57:17 COT" duration-ms="747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- Test.DesloguearseTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
